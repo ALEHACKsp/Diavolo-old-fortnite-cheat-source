@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: El directorio Output no termina con una barra diagonal final. Esta instancia de compilación agregará la barra diagonal porque es necesaria para que se pueda evaluar correctamente el directorio Output.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: El directorio intermedio (x64\Release\) contiene archivos compartidos de otro proyecto (Fortnite.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+cl : línea de comandos warning D9025: invalidando '/sdl' con '/GS-'
+  settings.cpp
+C:\Users\monme\Desktop\Cheats\MYPASTES LOL\my surce cheat\AccuracyFN-SRC-LEAK-with-out-the-menu-main\AccuracyFN\settings.cpp(34,33): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\monme\Desktop\Cheats\MYPASTES LOL\my surce cheat\AccuracyFN-SRC-LEAK-with-out-the-menu-main\AccuracyFN\settings.cpp(35,29): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\monme\Desktop\Cheats\MYPASTES LOL\my surce cheat\AccuracyFN-SRC-LEAK-with-out-the-menu-main\AccuracyFN\settings.cpp(39,30): warning C4305: '=': truncamiento de 'float' a 'bool'
+     Creando biblioteca .\x64\release\AccuracyFNSRCLEAK.lib y objeto .\x64\release\AccuracyFNSRCLEAK.exp
+LINK : warning LNK4098: la biblioteca predeterminada'LIBCMTD' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Generando código
+C:\Users\monme\Desktop\Cheats\MYPASTES LOL\my surce cheat\AccuracyFN-SRC-LEAK-with-out-the-menu-main\AccuracyFN\renderer.cpp(1888): warning C4700: se utilizó la variable local 'X' sin inicializar
+  1240 of 3259 functions (38.0%) were compiled, the rest were copied from previous compilation.
+    1221 functions were new in current compilation
+    29 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Fortnite.vcxproj -> C:\Users\monme\Desktop\Cheats\MYPASTES LOL\my surce cheat\AccuracyFN-SRC-LEAK-with-out-the-menu-main\AccuracyFN\.\x64\release\AccuracyFNSRCLEAK.dll
